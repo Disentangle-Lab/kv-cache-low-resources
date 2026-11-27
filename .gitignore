@@ -1,0 +1,18 @@
+# Python & Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Large experiment artifacts & downloaded corpora
+*.npz
+*.tar.gz
+_flores200/
+kv_rank_week*/
+kv_overlap/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
