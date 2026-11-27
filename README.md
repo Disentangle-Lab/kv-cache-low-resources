@@ -1,5 +1,7 @@
 # Cross-Lingual Calibration Bias in Low-Rank KV-Cache Compression for Low-Resource Languages
 
+**Author:** Maria Contreras ([Disentangle Lab](https://github.com/Disentangle-Lab)) · **License:** [MIT](LICENSE)
+
 Systematic empirical study of **low-rank KV-cache compression** across high- and low-resource languages — **English (`en`)**, **Spanish (`es`)**, **Finnish (`fi`)**, and **Ayacucho Quechua (`qu`)** — on **Qwen3-1.7B** (28 layers, 16 query heads, 8 KV heads, `head_dim = 128`).
 
 ---

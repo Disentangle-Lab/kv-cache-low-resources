@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this code or cross-lingual KV-cache compression findings, please cite this repository."
+title: "Cross-Lingual Calibration Bias in Low-Rank KV-Cache Compression for Low-Resource Languages"
+type: software
+date-released: "2026-11-27"
+license: MIT
+repository-code: "https://github.com/Disentangle-Lab/kv-cache-low-resources"
+authors:
+  - family-names: "Contreras"
+    given-names: "Maria"
+    affiliation: "Disentangle Lab"
+keywords:
+  - kv-cache
+  - llm-compression
+  - low-resource-nlp
+  - quechua
+  - multilingual-llm
