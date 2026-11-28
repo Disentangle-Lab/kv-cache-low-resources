@@ -1,5 +1,7 @@
 # Cross-Lingual Calibration Bias in Low-Rank KV-Cache Compression for Low-Resource Languages
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24619734.svg)](https://doi.org/10.5281/zenodo.24619734)
+
 Systematic empirical study of **low-rank KV-cache compression** across high- and low-resource languages — **English (`en`)**, **Spanish (`es`)**, **Finnish (`fi`)**, and **Ayacucho Quechua (`qu`)** — replicated across two distinct LLM architectures with identical KV-cache geometry (`28` layers, `8` KV heads, `head_dim = 128`, `D_KV = 1024`):
 - **`Qwen/Qwen3-1.7B`** (with per-head QK-RMSNorm `k_norm`)
 - **`unsloth/Llama-3.2-3B`** (standard attention, no `k_norm`, different tokenizer & pretraining mix)

@@ -1,6 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this code or cross-lingual KV-cache compression findings, please cite this repository."
 title: "Cross-Lingual Calibration Bias in Low-Rank KV-Cache Compression for Low-Resource Languages"
+version: "1.0.0"
+doi: 10.5281/zenodo.24619734
 type: software
 date-released: "2026-11-27"
 license: MIT
